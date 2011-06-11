@@ -1,0 +1,73 @@
+﻿CUNY Journalism Guest
+CUNYsoj11
+
+Dan Schneiderman
+Student/OpenCongress
+Open the Data
+
+1. Show me the money:
+newmediaventures.org
+
+Challenges
+-------------
+Find Developers
+Funders
+Hybrid Ideas and how to work with them
+- society doesn't favor "non-profit" ideas
+- alignments between partisans
+Crowd source funding w/o scale
+
+Solutions:
+-------------
+Kickstarter for seed funding
+Help build supporters "brands"
+Look for key player - hyper local
+Not the usual suspects
+Open Source Community and volunteer developers
+Go to colleges/find students for developers - my idea
+
+People here:
+--------------
+Lot of different companies
+Everyone want to be a part of something
+Data overload
+
+2. Lunch
+---------------
+Talk with cool people
+Met up with the usual suspects from every other Open Gov conference
+
+
+
+3. Live Coding
+---------------
+Mark Headd
+Taking data from NYC Data Mine
+Build an app to find nearest library location in NYC
+Using Ruby and couch db and php
+GeoCouch
+Tropo
+shp2geocouch
+github.com/mmheadd
+https://gist.github.com/1009311
+
+4. Civic Commons
+-------------------
+Code for America and OpenPlans
+Working with Cities to 
+  - open code
+  - help technically
+  - Visualizing Data
+  - Collaboration across agency lines
+  - Geo location data
+Crunch base for all open gov tech
+  - wiki style
+  - both open and closed source
+Open311
+See Click Fix
+
+
+URLs from the day:
+http://civiccommons.org/
+https://turbovote.org/
+https://www.firmstep.com/ - Brett's company
