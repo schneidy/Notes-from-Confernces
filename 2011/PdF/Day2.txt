@@ -1,0 +1,569 @@
+﻿Started off the morning have small breakfast/chat with Craig Newmark
+
+Opening Remarks
+
+1. Craig Newmark
+  - Why Opening Matters
+  - To make transparency happen, we all have to help out
+  - VA uses social media to get feedback
+  - Not just about government, should be applied to non profits
+    - see if they are effective
+    - greatnonprofits.org
+  - Wants to ask a favor
+    - Spread the word
+    - Get involved and get ready to find and talk to the "bad zookeepers"
+
+2. Vivek Kundra - CIO of White House
+  - Released IT Dashboard last year
+    - Found that there was 80 billion $ that were behind schedule or over scoped, years behind development, and off track
+    - Saved $3 Billion though IT Dashboard
+  - "Shine Light and Make the Tough Decisions"
+  - People are going online and making people accountable
+  - Start Small, Scale Fast, Fail Fast
+  - Why do we need to spend money creating new systems?
+  - Greatest systems are being creating in the consumer space
+  - Get rid of the addiction of digital oil
+    - Now have over 2000 data centers
+    - Average Usage is under 40%
+    - Makes no sense to throw good money at bad money
+  - Going to the cloud
+    - cuts tons of wasteful money
+  - Create a Digital Public Square
+    - Currently, we the public sector uses an old model where they are broadcast to instead of conversations
+    - Why Data.gov was launched so that the public can go through it
+    - The people are much more efficient than the government at creating new technologies
+    - We need to role up our sleeves and get to work
+ - Without transparency we can not regain the publics trust
+
+
+3. Rep. Jason Chaffetz from Utah
+"Open Congress: The New House Approach"
+@JasonInTheHouse
+  - Congress understanding of technology is wide spread
+    - having 1 blackberry for the office to posting on twitter and youtube
+  - No Campaign Office
+  - Refused to buy anyone a free meal
+  - Had only volunteers
+  - Used online tools
+  - Tapped into stay at home moms
+  - Was using Yahoo News group in 2008
+  - Big Money != Bigger chance of getting into office/Big Campaign
+  - Those who fail to use these tools will get caught in the dust
+  - On the House oversight committee
+  - US takes 3.6 Trillion dollars every year
+  - In Hatti, they can not provide the data to where they are spending the money
+    - The US Government has the same issue
+  - USASpending.gov only has 35% accuracy
+  - Want to make sure that no one is not getting into personal geo location data
+    - working with high tech companies
+    - working on legislation to prevent tracking
+    - police are adding gps devices to cars to track them
+  - don't want to over regulate but wants to protect the people
+  
+  
+4.Hank Hultquist
+From AT&T
+Changing Technologies and Regulatory Policy
+  -Timeline
+    - 1874 Alexander Graham Bell invents telephone
+    - 1934 Communications Act - created regulatory silos
+    - 1943 Vint Cerf Born
+    - 1947 Bell Labs proposes cell phones
+    - 1969 first ARPANET link
+    - 1971 AT&T proposes cell services to FCC
+    - 1982 TCP/IP Standardized
+    - 1984 Divestiture
+    - 1996 Telecommunications Act
+    - Shows that we are still working under parts of the 1934 Act
+  - Networks now run side by side
+  - Both 1934 and 1996 Acts are way out of date, both happened before the big changes that make up today's technology
+  - Things need to change to keep up with todays ever changing technology
+
+5. Lucy Bernholz
+Open Philanthropy to Support Agents of Change
+  -Philanthropy Wonk
+  - Here to ask for help
+  - Needs tech geeks and policy nerds as philanthropy is in need of a reboot/ introduction to the 21st century
+  - Over 240 million dollars are given by everyday people each year
+  - For getting money from foundations
+    - get background info, write proposal, give it to them, and wait
+    - Best case results in single grant
+  - We need their data for Foundations
+    - Foundations have data waste
+    - grant data sets
+  - Need to connect the end of the snake with the head
+   - Jumo allows people to show their end results
+  - Need more funders to show what data they get
+    - online index
+    - Allows partners to join together to produce new great ideas
+  - We need public demand on foundations
+  - We are the sustaining support for most of the things foundations support
+  - Things to Do
+    - ask for the data
+    - give them permission to share your information; share your ideas
+    - show them what their data looks like; shows them what they know
+  - Easy vs hard way
+    - easier to go and ask, or go though legislation
+
+
+10:30 - 1:00
+The Future of Sharing
+
+1. Anthea Watson & Mindy Finn
+The Power of Open Voting Data
+  - Voting Information Project
+  - People didn't know where they go to vote
+  - Went to states to telling them about the easy steps it would take to add widgets showing people where to vote
+  - Big data is really really hard
+  - Officials kept data in Rolodex and in their head
+  - Amazing data you can now only get in one area since most of the companies that had that info went out of business
+  - Data co-ops
+  - power over and power with
+  -Voting Data is more power with
+    - sourcing candidate data
+    - collect sources data
+    - asking people to contribute data or money for the heavy hitters of their api
+
+Stacy Donahue introduces next person
+
+2. Andrew McLaughlin
+Executive Director of Civic Commons
+Was Chief Information Director of the US
+"Building a Civic Commons"
+  - Sharing Technology for the Public Good
+  - Try to help city, counties, and units of government build apps
+  - Face the same tech and gov problems
+  - Intersection of Open Software and Civic Life
+  - Open 311 Initiative
+    - track potholes and problems with tech
+  - San Ramon Fire Department App
+    - alerts anyone who is trained in CPR of people who need it in the area, shows where the assistance is needed
+
+
+3. Richard Boly
+E-Diplomacy and the Tech Diplomacy
+   - Started at dawn of information need last century (around telephone)
+  - Those who forget the past forget the future
+  - While People were getting into the eMacs, State Department was using Wang computers (a huge change)
+  - Need to learn to share
+  - Went to open source solutions
+  - Went to the experts
+  - Cut though information silos
+  - Corridor allows government people to find each other
+  - Virtual Student Foreign
+  - How to we ensure that the future is bright?
+
+4. Daniel Ben-Horin
+Started with Documentor in 1988
+"Networks of Resources...Networks of Ideas: Connecting the Dots"
+  - How many people have used the friend finder on facebook?
+  - Now we are trying to make sense out of this information
+  - How do you overcome the structureless
+  - TechSoup - organization that provides tools and resources to worldwide network
+  - Book "Hackers" with strong movement of the idea that information should be free
+  - No one can create change alone
+  - Translation Capability for NGOs - Who Wants to Work Together
+
+5. Lukas Biewald
+CEO of CrowdFlower
+"The Fruits of Open Collaboration"
+  - Goes to Fortune 500 companies and convince them to use crowd sourcing
+  - Scalability that has made it work
+  - Translation for Kreyol-English was crowd sourced for txt messages sent after Hatti earthquake
+  - Sparked - used for micro volunteering
+
+
+6. Jeff Warren & Liz Barry
+"Civic Science"
+  - GrassrootsMapping.org
+  - Community oriented to collect aerial imagine of important imaging
+  - Kits cost $100-$200 that contains camera, kite, balloon
+  - Used in BP Oil Spill
+  - Better imaging that Google maps (higher res) just in smaller areas
+  - In high demand for ares that its interested in
+  - PublicLabratory
+    - Citizens can publish data and everyone can access it
+    - Commentary and discourse
+    - Cheap filters are being added in
+  
+
+7. Jon Gosier 
+Founded AppAfrica
+"Swift River: Advanced Crowd sourcing
+  - @jongos, @swiftriver
+  - Ushahidi
+  - "It's not information overload. It's filter failure" - Clay Shirky
+  - Platform
+    - consider the context, relevance defined by the user
+    - offer an opt-in global database of trust and authority
+    - algorithms augment, but not define, human decision making 
+    - Work across media channels
+    - be accessible
+    - index massive amounts of the mobile/social web
+  - This is a data problem, data is agnostic
+  - Operate more like a startup than activist
+  - get feedback from people using their tools
+  - Swiftriver
+
+8. Jim Gilliam
+"The Internet is My Religion"
+  - Stories, Tools, and Faith
+  - Grew up with Jesus and the Internet
+  - Born again when 8, in his teens was heavy conservative
+  - When he heard the first noises of a modem brought home by his data, he fell in love
+  - Found out he had cancer, soon found out that his mom had cancer
+    - he survived, his mother didn't, faith destroyed
+  - Cancer came back in blood, had to find bone marrow
+    - went though some much chemo therapy and went though tons of pain
+    - a donor was found
+    - walked out of hospital a new man two weeks later
+  - became activist after 9/11
+  - Became a "movie producer" on Iraq film
+    - became huge hit though activist online
+  - Needed 2 lung transplant
+    - Was denied because it would be too complicated, was pissed, blogged about it
+    - activist friends spread the word 
+    - tons of hurdles still had to be overcome, friends though the internet got him on the transplant list
+    - right before surgery, he though about all these people he never met and how his life would continue between him
+    - humanity collected is god
+  - we owe our lives to each other, we are all in debt to each other
+    - internet is paying back that debt
+    - today we are the creators
+    - what people do in this room is a new faith
+    - together we are the creator
+  - "God is just what happens when humanity is connected. Humanity connected is God."
+  - Huge Standing ovation, only one that has happened all weekend
+  - @jgilliam
+
+
+9. Ben Rattray
+Change.org
+How Hyperlocal online organizing is disturbing traditional advocacy
+  - Mobilizing tons of people helps overcome big problems
+  - LGBT teacher was fired for saying yes he was gay
+    - change.org petition was signed by over 5000 people
+      - with protest at the next school board meeting, job was given back
+  - Build movements from the ground up
+  - most effective means is not to go directly at the federal moments, but to go local
+  - this dynamic applies to every issue
+  - Talks about the "It Gets Better Project"
+    - SF Giants stepped out and made the first video from a sports team
+    - Change.org petitions got The Cubs and the Red Soxs to make petitions
+    - A single video can change the world
+
+10. Jeremy Heimans
+"The Untapped Power of Consumer Campaigns"
+  - Consumer power: your country needs you
+  - How can you deploy agency to improve citizenry
+  - collective power
+  - the power to organize people as share holders
+  - have this huge agency as consumers
+  - Corporations care more about their brands than governments care about their citizens
+
+
+11.Dan Gillmor
+Civic Literacy: The Challenge of New Media
+or Civic Literacy in a Networked Age
+  - Media Shift
+    - Media 0.1 Cave Paintings
+    - 1.0 Gutenberg Bible
+    - 2.0 Radio
+    - 2.5 TV
+    - 3.0 Internet
+  - Still trying to figure out the flow
+  - It is getting blurry on what is and isn't journalism between blogs/ videos, and news websites
+  - In Digital News, a lower barrier to entry
+  - AND, not OR (type of media)
+  - Demand is the problem
+  - Too much of the media is garbage
+  - Accurate? Trustworthy?
+  - 24 news cycle gets things wrong
+  - Using media, not consuming
+    - think about slow news
+  - Being a better consumer of news
+  - Be Skeptical, judgment, research, free thinking, understand techniques
+  - Credibility scale
+  - Wikipedia, best place to start, worst place to stop
+  - Go outside your comfort zone
+  -SourceWatch
+  - Information Velocity
+    - information is just wrong, but eventually gets corrected
+  - Slow News: take a breath
+  - Consumers <=> Creators
+  - Remember how Hollywood, governments wants the internet to work
+  - No. It's ours, not theirs
+
+
+12. Jay Rosen
+"The Past and Future of Pro-am Journalism
+  - Where are not as far as long as we should be
+  - Pro-am journalism - hybrid of journalism and users
+  - Professional journalism has been optimized for low participation
+  - The Great Horizontal
+    - we're connected "across" to other people as effectively as we're connected "up" to Big Media
+  - my readers know more than I do
+  - Goes though different parts of pro-am journalism and grades them
+  - we design sites for the 1% of people who will become reliable contributors
+  - should improve the ergonomics to get more people to contribute
+  - figure out tasks for the 10% of contributers
+  - Ask what can the 90% do?
+  - Engage already organized communities
+  - Frictionless and fun with ladders of achievement
+  - Pro-am journalism needs to take a page from game design
+  - Author + hundreds of contributors working together
+  - Learn from Al Jazeera
+
+13. Marko Rakar
+The Power of Transparency Croatia Style
+  - blog: http://pollitika.com
+  - More voters than citizens
+  - There are places where people can vote twice
+  - Site to find war records, but records can't be verified and there huge facts that are incorrect that people know about
+  - When pointing out these wrong facts, he is questioned and arrested by the police
+  - thousands of members of the press published articles about this wrong facts in the government website and turned themselves in
+  
+
+14. Rebecca MacKinnon
+The Consent of the Network
+  - @rmack
+  - co-founder of Global Visions
+  - Monty Python and the Holy Grail scene about how do you become King
+  - Magna Carta was major political innovation of its time
+    - even the kink must rule according to law
+  - 1697: Putnet Debates & "The Levelers"
+    - Col Thomas Rainborough
+  - Consent of the Govern
+  - 1648: Westphalian, Nation-state system
+  - Internet makes borders interesting
+  - Sovereigns of cyberspace
+  - We have reached a new 'Magna Carta' moment
+
+15. Doc Searls 
+Co-author of Clue Train manifesto
+  - @dsearls
+  - User Driven Democracy
+  - Its aspirational
+  - Praises Larry Lessig
+    - We have taken things for granted
+   - Think calf and cow
+    - Personal Democracy 0.x
+    - This is the commercial web
+    - we've had this model since 1995 (the invention of the cookie)
+  - Tim Burners Lee
+  - CRM = Customer Relationship Management
+    - Targeting, acquiring, controlling, all terms relating to slavery and agriculture
+  - The technical word for this is client-server
+    - Its top Down
+    - submissive-Dominant
+  - Online, users have no more power than sites give them,
+    - still 1943 in terms of relationship
+  - No anonymity on future web says Google CEO
+  - Dictonary.com is one of the worst when dealing with cookies
+  - RapLeaf - Introducing Personal Data
+    - got tons of personalization stuff wrong
+  - Eli Pariser and the Filter Bubble
+  - Project VRM, the user drives
+    - Vendor Relationship Management
+    - independence and your tools to engage
+    - the user drives, you can relate on your own terms
+    - write your own rules, execute them wherever you like
+  - Do GRM: Government Relationship Management
+    - NewGov
+
+
+Breakout session
+
+1. A Conversation with Cory Doctrow
+  - just how disruptive is the internet, really?
+  - Walk in before session and he is talking with someone in the audience on the problems on electronic publishing, drm, and piracy 
+  - Questions and ranting
+  - Bit coin
+    - just blogged about, has less of a success map
+    - has a limited shelf life
+    - check out Ben Lory - head cryptologist at Google
+    - cant really form a strong opinion about bit coin
+  - We live in the public and and then publish
+    - can only get slashdoted if its online
+    - Being widely read doesn't mean you can make a living off of it
+  - How do you deal with wearing many hats
+  - Shirky Game - drink every time he quotes him
+  - Are twitter conversations deep or just fast
+    - the rigor of having to shorten your thoughts is good, but some thoughts can not be shortened
+    - make it possible for people to trade thoughts
+  - How do you handle the cost of participation on BoingBoing
+    - has had on and off comments
+    - at one point there was no way to give feedback (no email or anything)
+      - added a simple mail form on the bottom that would email it, keep it anonymous, filled with trolls, was way to easy
+    - they now use submitterator (like reddit and digg)
+  - touch topics on open technology in education
+
+Sunlight Foundation Press Release
+  - TransparencyData.com
+  - Ellen Miller talking
+  - Sunlight Foundation 5 years old
+  - Sunlight Lab
+  - Influence Explorer in you email
+  - Checking influence
+  - Inbox Influence Explorer
+  - Poligraft
+
+
+2nd Breakout session: The after math of wikileaks
+
+Heather Brooke
+  - moved to Britain in '97
+  - disclosure laws on documents
+  - "Your Right to Know" book on Information act in Britain
+  - The public gave into the idea that the government controls what information you are allowed to have
+  - Biggest change was in the idea of who has the power and authority in Britain, including thoughts on the police
+    - not unique
+    - more of a global phenomenon
+    - started to cost more money to keep data/information a secret
+  - "The Revolution will be digitized" - book just finished in writing, so should be coming out eventually
+  - Talked about Hackerspaces
+    - the enlighten coffee house of our time
+    - democracy of ideas
+    - though t that this was the digital revolution
+  - wikileaks was one of the many people she talked to
+    - an encapsulation of ideas of privacy, ideas ownership, was the most obvious example of digitized data was on this area
+    - we are at a cusp where we have this opportunity to created this global democracy that has never exist before
+    - but there is also the possibility of dictatorship
+  - Book is more about people
+
+
+Gabriella Coleman
+  - Studied anonymous and hacker culture
+  - are we going to miss Julian Assange
+  - Talk about the lulz in anonymous
+  - what makes hacker and geek politics interesting
+  - studies trolls
+  - Wikileaks and Anonymous are different
+    - belong in the same family
+  - protection for anonymous speech are vital to democratic discourse. Allowing dissenters to shield their identities frees them to express critical, minority views
+  - hard to predict
+
+  - in Q&A
+    - talks about the different secs of Anonymous
+      - AnonOps and LulzSec
+
+Jeff Jarvis
+  - "Public Parts" - new book coming out
+  - Conversations always end up talking about penis
+  - If you are in government, it is wrong to keep secrecy
+  - you can't presume anything is secret anymore
+  - you cant clamp down on these things
+  - came back from eg8
+    - you are the lipstick on the pig, smooch smooch
+  - Internet is 8th continent
+  
+
+Closing Keynotes and now no Round table:
+People and States in a Hyper connected World
+
+Steven Johnson
+  - Book: "Emerges" - came out in 2000; out of simplicity comes complexity
+  - Markets, States, Networks
+  - Story on in certain neighborhoods in city, would suddenly get saturated with the smell of maple syrup
+    - operators at 311 got calls about this
+    - people eventually got this thing called Maple Syrups events
+    - open 311 realized that there was certain geo locations with these reports
+    - found out that a factory was making these smells
+  - Words and Wine events
+    - was asked if he was a communist due to promoting free software and sharing of ideas
+  - what do we believe in? no word really exists for it yet
+    - we believe in the power of networks
+    - Netarian
+    - networks with lower case 'n'
+  - Networks have density, different nodes, feedback mechanism, sharing and stacking
+    - internet has a lot of these values
+  - Bernie Sanders introduced two bills
+    - Acts to reward solutions in finding the cure for AIDS
+    - use the government to widen the network and reward those who find those solutions
+  - collective intelligence
+    - helpful when dealing with certain issues
+    - but not exactly what networks are meant for
+  - Apps for America
+    - network of smaller groups creating their own apps to improve America and sharing ideas
+
+2. Mitchell Baker
+Chairperson of Mozilla Foundation
+"Building the Infrastructure of Civil Society Online"
+  - Not every venture is about capital
+  - think about the individual first
+  - Build technologies that build certain traits into the internet
+  - Democratization
+  - How can we switch from consumption to creation
+  - "How much can you influence the system"
+  - Sometimes people will ask "Does it matter"
+  - Connect. Share projects. Hack everything.
+  - Teach kids to hack
+    - People in their 20s grew up hacking, kids these days don't
+  - Knight-Mozilla News Technology Partnership (Mojo)
+
+
+3. Anne Marie Slaughter
+Teaches as Princeton University
+  - "DIY Foreign Policy"
+  - @slaughteram
+  - Spent last 2 years in the State Department
+  - Foreign Policy
+  - You don't have to go into government to get into Foreign Policy
+  - Separation - Berlin wall that divided a population
+    - How could that be
+    - We lived in a world of states
+    - a group of billiard balls bumping into each other (randomly or on purpose)
+    - who drove those orbs, government filled with only men
+  - Connection
+    - Internet and everything that has been talked about in the past two days
+    - Think about 9/11 and Spring Awakening
+      - built around networks; one of aggression, one of peace (in terms of goals)
+  - Still have states but next to it is a world of networks (non state actors)
+  -Clinton Global Initiative
+  - EmErGeNcE
+  - Leadership and Power To/Power With
+  - the Link Changes Everything
+ 
+Last two ITP NYU students 
+
+1. Margaret McKenna   
+  - http://mlmckenna.com/news
+  - Was in Ghana in 2009 and checked news at home regularly
+  - Uganda MP urges death for gay sex
+    - found out through BBC article
+    - went to the NYT and didn't find anything until 2 months later, and was in an interior page in the corner
+  - Came up with a tool
+    - quantitative analysis of news coverage in the World section of the NYT
+    - new interface for exploring news coverage
+    - animates through time and category
+  - How can we unearth [relevant] content that by virtue of its place in a hierarchy remains largely hidden to users?
+  - Can data visualizations (paired with stat analysis) keep us honest about our biases in both content creation and consumption
+
+OpenRTMS Platform
+  - open source real time mobile sensor
+  - uses Android phone
+  - using mobile devices to provide access to the internet
+
+3. Mark Pesce
+"Power vs People (Now Look What You Made Me Do!)"
+  - In the beginning, there is perfect power
+  - Tying their wealth of nations to their connectivity
+  - Entire presentation is done as if Mark was a dictator with background interruptions as the people
+  - Just add link to video instead of taking note, just too awesome to describe
+  - We the people...
+
+
+4. Cory Doctrow
+  - How Disruptive *is* the internet?
+  - been both good and bad
+  - which technologies are good for technology?
+    - how to get more of them?
+  - two technologies that change the balance of power
+    - coordination tools - how to rally people (used to deal with envelopes but what put in them was the challenge
+    - tools with strong cryptology in order to keep secret the leaders of organizers while allowing them to still coordinate people
+  - these tools will be ready to those who do have power and those who don't have power
+  - "We make encyclopedias like ants make hills"
+  - Need to remember that these technologies once available can be used by criminals and everyone else
+
+
+A Gay Girl in Damascus was arrested – announcement from the stage
+	* week later, the entire blog was reported to be done by an American

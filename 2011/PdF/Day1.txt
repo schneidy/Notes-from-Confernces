@@ -1,0 +1,542 @@
+﻿Personal Democracy Forum – Day 1
+
+9:00-10:00
+Opening Remarks:
+"Agents of change"
+How do we defend user rights - user rights and privacy
+  - first three talks about this
+1. Susan Morgan
+  - User Rights and Platform Responsibilities in an age of global change
+  - Content removal in the house of commons
+  - picture of "the uprising"
+  - sense of scale is changing
+  - would events still happen if internet isn't there
+  - Tech has an enormous impact, not just on politics, but particularly on political DESIGN
+  - Three things to suggest
+    - Companies need to realize the human rights impact that they have
+    - 
+  - Global Network Initiatives
+    - Making sure that companies take the right steps with human rights, government involvement
+  - 2011 is incredible year with only half the year done
+
+2. Siva Vaidhyanathan
+ - The Googlization of everything
+ - Taking the Google out of the talk after talking about the book too much
+  - The Anarchist in the Library, The Net Delusion, Here Comes Everyone
+  -Wikileaks
+    - tons of people bailed on them: Amazon, Paypal, Visa
+    - Amazon is a department store, so don't be angry at them
+    - Facebook and anonymity, became a big problem with taking care of people who stand up against government as governments have learned Facebook
+    - Thought it was something like a public square
+    - Blow-back though Anonymous
+    - Activists are building structure and networks to help improve society
+      - Torm, diaspora, GlobalVoices, Avaaz
+  - Real Politics is what we should be after
+    - How much difference is business taking in the world
+    - are apps actually changing anything
+    - Hypothesis that he hopes is wrong
+  - What happens if the internet doesn't exist
+    - Internet is the network of networks
+    - We have never had a universal network containing common knowledge
+    - Countries like Turkey, France, China is filtering
+      - discrete networks that can be taken down
+    - Maybe we are not done with the politics of the net itself
+    - We aren't consumers of the internet
+    - We are the product that these companies that they sell
+  - We are not citizens of the internet
+    - Make sure everything is net neutral and open
+    - Fight for specific politics in order to keep the internet free
+
+
+3. Danah Boyd
+Networked Privacy
+  - Government is trying to figure out to regulate privacy
+  - No one can agree to what Privacy means
+  - privacy is focused on the individual 
+  - Neo liberalism and how it affects the individual
+  - We are all connected
+  - Mothers promote kids privacy but put up embarrassing of their kids
+  - People are invading their own privacy by putting up photos
+  - Dating mining is showing interesting portraits 
+  - You control what the norms are and how the information is controlled
+  - Agency is the freedom of the individual without the strange factors
+    -If you don't say anything it will have social costs
+  - we aren't paying attention to everything because its socially polite
+  - illusion of control
+  - teenagers are always trying to find privacy
+  - privacy though effort
+  - young people try to assert control but fail miserably
+  - gives different situations on how teens deal with facebook
+  - young people actually care about privacy, but cares about who and how people are looking at them
+  - need to think about privacy in the 2010's and not in the 1970's laws
+    
+
+10:30-11:15
+Changing politics from the inside out
+1. MEP Marietje Schaake
+  - Freedom of information act
+  - Effectively force net neutrality
+  - eG8 France President wants more regulation
+  - lacking a balance of cyber security
+  - response to Wikileaks in US is disturbing
+   "...cutting off users from internet access, regardless of the justification provided, including on the grounds of violating intellectual property rights law, to be disproportionate and this a violation article 19, paragraph..." - need to look up the rest of this
+  - Showed Egypt black out text
+  - Txts were sent out promoting Egypt government
+  - IHateVodafoneEgypt.com
+  - To do:
+    - Access to internet as fundamental right
+    - Weapon embargo;s including ICT
+    - Trade restrictions - Dual use technologies
+    - Human rights impact assessment trade, start in R&D phase
+    - Post-hoc monitoring
+    - Separating populations from regimes - providing rights enabling tech
+    - Knowledge and cooperation for well informed decisions
+
+2. Rohan Silva
+Here from the UK
+  - PM Transparency Plan
+  - created a website that allowed government workers to submit their ideas on how to save money
+  - Wiki government is taking a group to the UK
+  - Tons of government websites, but none with any open forums
+  - 
+
+3. Emily Parker
+  - Part of the Policy team with Hilary Clinton
+  - "Freedom to Connect"
+  - Became interested in internet freedom in 2004
+  - Buzz around power of the internet to bring new information into China
+    - Ways of how to get around Chinese censors, ex: misspellings
+    - Most Chinese weren't getting this information
+    - Some freedom of speech even though sites got shut down
+  - Internet is place where people can unite for common good
+  - Social media was not the only cause in Spring Awakening
+  - While people enjoy the freedom online, not always given IRL
+  - Mere existence of internet networks can not move change, needs people
+
+Entering Topical multitasking as Senator Kristian Gillibrand is running a little Late
+
+
+
+Disruptive people, disruptive technologies:
+Learning from North Africa, the Middle East and beyond
+
+Video is showed of 1984 like ad but in Tunia in 2004....well, technical problems occurred
+
+1. Riahd Guerfali
+What Happened in Tunisia
+  - How to show people that there are problems with freedom of speech
+  - nawaat.org/portail/
+  - ...more technical problems
+  - video about presidential airplane
+    - mashup of photo sites
+    - to show where and when the presidential airplane goes on weekends to show what level of legitimacy
+  - video; 1984 super bowl ad parody
+    - Had the president of Tunisia as big brother
+    - took place in 1984
+    - made in 30 minutes for cheap and posted on youtube
+  - use technology to show that pres is really nasty and has to leave
+  - when we have communication tools that are controlled, nothing happens
+       - but it is free, huge things can happen
+  - Gutenberg was huge because he gave to the people the ability to print without the church or government
+  - Each time information is controlled, the worst of humanity happens
+  - when 100% of the younger population is outlaws (because of downloads), we are in trouble - things need to change
+  
+Shout out to Sunlight Foundation
+
+Ellen Miller introduces Senator Kristian Gillibrand
+4. Senator Kirsten Gillibrant
+Transparency Starts at Home
+  - Praises organizers of PdF
+  - Biggest issue in NY is economy
+  - People have lost faith in their government
+    - don't think that their voices are not here
+    - Washington doesn't seem to work enough or get along
+  - Washington is broken
+  - Everyday people can have a voice and be heard
+  - Sunlight is always the best disinfectant
+  - Daily schedule was posted online
+    - allow access for people to express their concern
+  - Put earmarks online too
+  - Feedback to maker her a better representative
+  - Pelosi made it mandatory to post earmarks online
+  - Bill should have every last bit of details of earmarks
+  - Anonymous Holds
+    - any senator can stop legislation from moving forward with out letting their name be known
+    - ban all anonymous holds
+  - All FEC reports online with Senator Tester
+  - POIA - Public Online Information Act
+    - every public info should be online and made machine readable
+  - There is no excuse for putting government online
+  - Cyber Crime and Cyber Attack are serious issues
+  - All families should have the right to access to the internet
+    - rural broadband
+  
+
+Back to Disruptive people, disruptive technologies: 
+
+2. Omoyele Sowore
+  - Weaving a Network for Change Nigeria
+  - http://www.elombah.com/news/node/3824
+  - Published problems about president of Nigeria
+  - Was arrested but ended up meeting son of the president who disliked his father
+  - Maybe America is over due for a revolution
+  - Country can do better
+  - @saharareporters 
+
+
+Now to focus on Egypt
+
+3. Alaa abd el Fattah
+Weaving A Network for Change Egypt
+  - Rocks and Clubs were used to defends themselves
+  - http://en.wikipedia.org/wiki/Alaa_Abd_El-Fatah
+  - People have been resisting the state for generations
+    - same songs were used
+  - Quick 30 years history
+    - very dynamic society
+    - been constant resistance
+    - there were places where you could do political speech
+      - Universities and factories was where most politics took place
+    - Combining these things led to the revolution
+    - Technologies was the current media
+    - In the 70s you had to reach out to every student and then take to the streets
+  - The internet started connecting smaller groups and led to larger ones
+  - Had to make sure that the revolution was just the workers
+  - Only way to fight the larger power had to start locally online and then build up from there
+  - reason that things are bad are because of the regime
+  - 'slacktavism' normalized politics" in Egypt. 
+  - "humor is the best way to confront political power." 
+
+4. Rasha A Abdulla
+The Invisible Republic of the Internet
+  - Internet Revolution?
+  - Internet passed but PEOPLE Powered
+  - People talked at us, not with us
+  - How do we talk with each other?
+  - Started with Bloggers in 2003 and expanded from there
+  - April 6 Youth, Egypt came to a standstill, 111,000 + people participated
+  - "I'm attending the revolution"
+  - Khaled Said was beaten to death 1 year ago
+    - was the spark
+    - 1, 388,000 + people like the fan page
+  - "I am not alone"
+  - A sense of community and being
+  - Just came from Geneva with the Human Rights Convention
+    - End the process for military trials on civilians on internet activist
+    - criminalize closing access to the internet to a whole country
+
+
+5. Jillian York
+Connection to Technology too much?
+  - How much do mobile and internet penetration factor into the success of digital access?
+  - Is there a penetration hump to get online
+  - Global Digital Activism Data Set
+  - Internet Penetration and Mobile Penetration
+  - Offline Factors
+    - freedom ranking
+    - economic development
+    - size of population
+    - rural/urban distribution
+    - GDP
+  - Online Factors
+    - Internet filtering
+    - online repression tactics
+    - surveillance
+    - use of social media sites
+    - anonymity vs identity
+    - counter-narrative
+
+6. Mona Eltahawy
+  - People or "kids" with messy hair shouldn't give up
+  - The power of the "I" was the strongest force behind the revolution
+  - When everything is decided for you, makes you want to demonstrate what you can really do
+  - Politics of OK is the same as the middle east
+  - Bloggers have this strong force
+  - Saudi Royal family is the one that puts people down, not the people/ not I
+  - People saw their faces when looking at  Khaled Said's face
+    - That I could be me
+
+
+7. Andy Carvin....Crowd Sorcerer
+  - Build networks of networks
+  - "Curating the Revolution(s)"
+  - Girl born this weekend during the revolution in Libya
+  - Independent journalist created a satellite and live streamed the revolution
+  - Found this house hit by missiles and children's bed by blood
+  - His own death was livestreamed as he was covering a fire fight
+  - Wife announced his death and said that she would take over even as she was 8 month's pregnant
+  - People with no media training would become their voices of their nation
+
+
+8. Zeynep Tufekc
+  - @techsoc
+  - www.technosociology.org
+  - The power of strong ties, the power of weak ties
+  - Social media provides the ability to connect and shape a network
+
+
+
+Online Politics and Organizing - Online Politics of 2012
+What is being discussed:
+
+Head of MoveOn.org
+  - technology isn't going to be a huge role directly, but more in brand managing and industry
+      - or at least not till after 2012 
+
+Tea-Party Patriots Cofounder
+  - left had an advantage in the past election
+  - in tea party movement, there are more older people who are participating in technology, some people are buying computers just to keep up with Tea Party Groups
+  - text message and mobile applications will be huge
+  - not as many people use smart phones now
+  - allowed us to nationalized some many races (elections)
+
+Stephanie Taylor - Progressive Change Campaign Committee
+  - Do think the people who win the 2012 election are going to be energetic and great at talking with the people
+  - Make Democratic Campaign more accountable
+  - Grassroots
+  - Grab bag of online tools
+  - Matters more if you are talking with energy
+
+Community Director at Freedom Works
+  - Smart Girl Politics
+  - Was tired at screaming at the tv and not being informed
+  - mention of #tcot
+  - We evolved though Twitter
+  - Twitter helped the birth of the Tea Party
+  - Now that ground work is laid, it will be able to help influence everything
+  - Connect with more people locally
+  - Site takes out the middle man in finding people
+  - New ways for older technologies/media to be used (podcasts)
+  - 
+
+Kristian Lockheart
+  -Part of a group that build tools
+  - energize their base
+  - More people using the same tools should have more impact
+  - Promotes smaller races no matter where you are
+  - Gets people who aren't in your state more interested
+
+My thoughts on first breakout session:
+  - Heavy usage of twitter and buzz words
+
+
+
+Breakout session 2 -Harvard Institute of Politics
+  -"Civility and Social Media: An Oxymoron?"
+
+Discussion
+  - Trey Grayson - head of the Institute of Politics at Harvard
+  - Tons of civil discourse in the US; does it really matter?
+  - @jfkjunior - live tweet
+
+Mindy Finn - worked for Mitt Romney and a few others
+  - Why is this one of your favorite topics?
+  - Colleges assume yes most of the time
+  - the way they approach the internet, people took a cower and fear approach
+  - Is man kind civil?
+  - People get really excited with new opportunities to get the gotcha moments and hot shots of candidates
+  - Right in the midst of social media beginnings
+  - Look at the video "Attack ads of the 1800s"
+
+Adam Sharp
+Manager, Government and Political Partnerships for Twitter
+  - There was discourse before social media
+  - thinks back to 1980s debates
+  - democratization of discourse
+  - probably better visualization of more voices
+  - Overall twitter population is interested in correct conversations
+  - Efficiency in social media platforms as it has removed pages of information clouding the main view
+
+Eli Paris
+  - Guy who wrote The Filter Bubble
+  - Always thought that people misperceive twitter and only see the negatives
+  - hard wire to pay more attention to negative stuff
+  - depends on how the particular medium is designed
+  - Twitter shows all
+  - same spiel as the book on friending conservatives on facebook
+  - show people more data that they are involved with
+  - Twitter has much more of a public feeling 
+  - People interact differently if they are known or anonymous
+ 
+
+John DellaVolpe
+  - Social Sphere
+  - Wrote essay on Wienergate
+  - expert on the millennial generation
+  - Americans want to be civil (at least from the millennial generation)
+  - Lessen the barriers for people to work together
+  - Government should identify the best people a lot more
+    - and give them more power
+    - ask them for help
+  - Government should take more lessons from everyone
+
+
+Mindy Finn
+  - Elected officials should personally reply back when using twitter or other social media as it builds a positive relationship
+
+- Adam Sharp
+  - Congress is split between Personally replying, don't know about the twitters, or those with some direct involvement
+  - Politics has been good with broadcast politics lately, but now that people are so used to that personalized experience 
+  - Harder to be uncivil when you have a personalized connection
+
+John
+  - There is a bit of an echo chamber
+  - Social media is the antidote to broadcast media civil discourse
+
+Eli
+  - Is social media making us too civil?
+  - somewhat leads towards group think
+
+Back in the Main Room
+
+End of the Day
+  - ITP Demos
+
+Noah Kink - Visual Concenus
+  - large map of the united states
+  - every visual point is a zip code
+  - Census data
+  - http://blog.digitalnoah.com/?cat=30
+
+Shorstien Center
+
+Seth Flaxman and Paul Schriver
+  - TurboVote
+  - turbovote.org
+  - series of tubes joke
+  - Site that will mail you the forms you need to fill out
+
+Topic of last 6 talks is networked fields
+
+1. Dan Sinker - The epic Twitter Quest of Mayor Rahm Emmanual
+  - Wrote insane awesome alternative story line on Emmanual on Twitter
+  - Wrote it on phone during commute
+  - @MayorEmanuel
+  - Started trying to make a few friends entertained
+  - After the election, the actual Rahm Emanuel offered to donate to the charity of Dan Sinker's choice
+  - "Revealing the Man Behind @MayorEmanuel" was article breaking who the author was
+  - Quoted Doctor Who
+  - Fake Twitter Accounts are created for every political event occurring
+  - Confronted by the media after the article outing him as the author and was given a choice to go the hard way or the easy way
+  - The hard way opened up more doors
+
+2. Eben Moglen - The Alternate net we need to build
+  - there are content owners who are scared of everyone who shares the bits that make up their works
+  - there are data miners
+  - there are the network operators
+  - we have those devices that prevent you from copying songs or making your ads impossible to hide
+  - the greatest harm to knowledge is the burning of the library of Alexandria
+  - the second would be the rebuilding of the library under the KGB
+  - we have lost too much already as we have lost anonymity
+  - "We may be losing the autonomy pf personality"
+  - Most of the routing in the world isn't done by us, but by people who are controlled by those who want to control our bits
+  - "without anonymity, we won't have the human race anymore"
+  - suppose there was a router that actually protected you because it knows how to serve you
+  - Freedom box is the software stack that serves you
+  - Will provide you with the encryption that you need
+  - Would provide you with mesh networking
+  - Free web surfing in China
+  - Wants to put similar chips in all devices
+  - About to have hardware revolution that is open to us due to free software
+  - Our devices are going to be about freedom
+  - openness isn't freedom
+  - embed freedom in everything
+
+
+3. Mike Wesch
+  - Professor of Anthropology at Kansas University 
+  - "Notes on whatever"
+  - The world's on fire - Aztec legend
+    - There are people living off of trash
+    - story ends up birds doing what they can
+  - Introduce students in college and they end up disengage
+  - Book, "Bowling Alone"
+  - express individualism value community
+  - Book , "The Empathic Civilization - The Race to Global Consciousness in a world in crisis" 
+  - Life in New Guinea
+    - takes 2 weeks to 2 months to get there
+    - completely off the grid (no running water, no electricity)
+    - Empathy is on the decline over the last 10 years
+    - has crossed cultures in the past
+  - People ended up screened
+  - Book - "The Capsular Civilization"
+  - “we are numbing ourselves and you cannot numb emotions selectively” - Brene Brown
+  - its powerful what one voice can do
+  - crisis moments 
+  - Eric Whiticrer's virtual chorus
+
+4. Lisa Gansky
+  - Reinventing Government in The Age of ZipCars
+  - Mesh, where access trumps ownership
+  - better things easily shared
+  - there is a long history of shared platforms, especially in cities
+  - We are more connected to people than ever before
+  - Soup of social, mobile, and physical goods
+  - Car sharing, zipcar
+  - its information not transport
+  - "Whip Car" - sharing your neighbor's car
+  - like cable and wifi cars need networks, too
+  - The Big Lunch - lunch held with neighbors to create community (open table)
+  - city's as platforms
+  - River simple - open source car
+  - waste = food
+  - open data hackathons
+  - joy of entanglement
+  - OhSoWe - site that brings neighborhoods together
+  - growing healthy communities
+  - City Starter
+  - define. refine. scale
+  - ofoto
+  - stumble safely
+  - pulse of p2g
+
+Lawrence Lessig
+  - Citizens
+  - "Future of Ideas" 
+  - Taken 4 Granted
+  - Broadband in US sucks
+  - Broadband in NC sucks
+  - In both cases, the monopoly is the problems
+  - solution is competition
+  - Open Access was removed in 2000
+  - Net Neutrality
+  - In NC people made their own networks
+    - House 129 -> would ban competition against corporations
+  - "Open Access" Publishing
+    - for profit gets max profit for publisher
+    - non profit provides accessibility
+  - Same debate about is it fair of public vs private being able to provide 
+  - private interest in public privacy
+  - Katrina effect
+    - 30% had no access to transportation, but public policy makers ignored them
+  - Trillions for the winners but being kicked out of their homes for the losers
+  -Ideas taken for granite as it feeds a dependency as it pays indirectly
+    - ex. tax cuts removes possible funds from large funders
+  - Congress has developed a new relationship from the funders
+  - Congress has become shape shifters in order to continue to raise funds
+  - The Funders are not eh people
+  - Root strikers
+  - DO SOMETHING
+  - Arnold Hiatt
+    - founder of Stride Rite
+    - Loyal Democrat
+    - invited by Bill Clinton in 1997
+    - Brought in with other fat cats and asked what Clinton should do for the rest of his term
+    - "Convince a reluctant war"
+    - War against fat cats
+    - People with money doesn't make them the money makers
+    - Thought politicians that fight that war
+      - Wrong, it will people the people; citizens; you
+  - A republic if you can keep it
+    - we have lost that Democracy
+    we need to act and not just speak
+
+
+6. Andrew Rasiej
+  - NYC in 1843
+  - Aaron Burr created a company that would have sole water rights and engage in banking
+    - Beginning of Chase bank
+  - NYC put all their money in the bank
+  - After cholera outbreak with tons of people dying of fled city
+  - Built new reservoir system that saved lives
+  - Until we solve duopoly problem with broadband internet, we will not move towards the future
